@@ -1,4 +1,4 @@
-# scoreconso-fr
+# ScoreConso
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-scoreconso-fr is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://scoreconso.fr/
+ScoreConso.fr is a French consumer‑rights information platform operated by the ScoreZenith ecosystem. It provides free practical guides, model letters and tools to help citizens understand and enforce their consumer rights, without offering individual legal advice or commercial services. The site aggregates official texts, offers a “Score Dossier” metric and a “Radar” of deadlines, aiming to improve transparency and empower users in disputes with businesses.
+
+**Areas:** ConsumerRights · France · LegalInfo · FreeTools · NonProfit
+
+## ScoreConso on APIs.io
+
+Everything profiled for ScoreConso is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scoreconso-fr/](https://apis.io/providers/scoreconso-fr/)** — or go straight to one of the APIs or properties below.
+
+### APIs (26)
+
+- [ScoreConso Acces Ia API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-acces-ia-api/) — The Acces Ia API from ScoreConso — 1 operation(s) for acces ia.
+- [ScoreConso Confidentialite API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-confidentialite-api/) — The Confidentialite API from ScoreConso — 1 operation(s) for confidentialite.
+- [ScoreConso Health API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-health-api/) — The Health API from ScoreConso — 1 operation(s) for health.
+- [ScoreConso Lens API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-lens-api/) — The Lens API from ScoreConso — 1 operation(s) for lens.
+- [ScoreConso Llms.txt API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-llms-txt-api/) — The Llms.txt API from ScoreConso — 1 operation(s) for llms.txt.
+- [ScoreConso Mcp Canary.json API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-mcp-canary-json-api/) — The Mcp Canary.json API from ScoreConso — 1 operation(s) for mcp canary.json.
+- [ScoreConso Mcp.json API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-mcp-json-api/) — The Mcp.json API from ScoreConso — 1 operation(s) for mcp.json.
+- [ScoreConso Mediation API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-mediation-api/) — The Mediation API from ScoreConso — 1 operation(s) for mediation.
+- [ScoreConso Mentions Legales API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-mentions-legales-api/) — The Mentions Legales API from ScoreConso — 1 operation(s) for mentions legales.
+- [ScoreConso Modeles Lettres API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-modeles-lettres-api/) — The Modeles Lettres API from ScoreConso — 2 operation(s) for modeles lettres.
+- [ScoreConso Official API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-official-api/) — The Official API from ScoreConso — 2 operation(s) for official.
+- [ScoreConso Publication Status API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-publication-status-api/) — The Publication Status API from ScoreConso — 1 operation(s) for publication status.
+- [ScoreConso Rappelconso API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-rappelconso-api/) — The Rappelconso API from ScoreConso — 1 operation(s) for rappelconso.
+- [ScoreConso Recherche API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-recherche-api/) — The Recherche API from ScoreConso — 1 operation(s) for recherche.
+- [ScoreConso Robots.txt API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-robots-txt-api/) — The Robots.txt API from ScoreConso — 1 operation(s) for robots.txt.
+- [ScoreConso Routes API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-routes-api/) — The Routes API from ScoreConso — 3 operation(s) for routes.
+- [ScoreConso Rulepack API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-rulepack-api/) — The Rulepack API from ScoreConso — 1 operation(s) for rulepack.
+- [ScoreConso Scan Rappel Produit API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-scan-rappel-produit-api/) — The Scan Rappel Produit API from ScoreConso — 1 operation(s) for scan rappel produit.
+- [ScoreConso Score Conso.fr API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-scoreconso-fr-api/) — The ScoreConso.fr API from ScoreConso — 2 operation(s) for scoreconso.fr.
+- [ScoreConso Search Index API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-search-index-api/) — The Search Index API from ScoreConso — 1 operation(s) for search index.
+- [ScoreConso Sitemap.xml API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-sitemap-xml-api/) — The Sitemap.xml API from ScoreConso — 1 operation(s) for sitemap.xml.
+- [ScoreConso Situations API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-situations-api/) — The Situations API from ScoreConso — 10 operation(s) for situations.
+- [ScoreConso Telecharger Lens API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-telecharger-lens-api/) — The Telecharger Lens API from ScoreConso — 1 operation(s) for telecharger lens.
+- [ScoreConso Telemetrie API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-telemetrie-api/) — The Telemetrie API from ScoreConso — 1 operation(s) for telemetrie.
+- [ScoreConso Verifier Professionnel API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-verifier-professionnel-api/) — The Verifier Professionnel API from ScoreConso — 1 operation(s) for verifier professionnel.
+- [ScoreConso .well Known API](https://apis.io/apis/scoreconso-fr/scoreconso-fr-well-known-api/) — The .well Known API from ScoreConso — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ScoreConso Agentic Access](https://apis.io/agentic-access/scoreconso-fr/scoreconso-fr-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [EnterpriseLookupInput](https://apis.io/schemas/scoreconso-fr/scoreconso-fr-enterprise-lookup-input/)
+- [EnterpriseMediatorEvidenceInput](https://apis.io/schemas/scoreconso-fr/scoreconso-fr-enterprise-mediator-evidence-input/)
+- [MarketplaceFacts](https://apis.io/schemas/scoreconso-fr/scoreconso-fr-marketplace-facts/)
+- [PaymentFraudFacts](https://apis.io/schemas/scoreconso-fr/scoreconso-fr-payment-fraud-facts/)
+- [SubscriptionFacts](https://apis.io/schemas/scoreconso-fr/scoreconso-fr-subscription-facts/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Scoreconso Fr Context](https://apis.io/jsonld/scoreconso-fr/scoreconso-fr-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ScoreConso API Rules](https://apis.io/rules/scoreconso-fr/scoreconso-fr-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ScoreConso Domain Security](https://apis.io/security/scoreconso-fr/scoreconso-fr-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scoreconso.fr/)
+- [Terms of service](https://scoreconso.fr/mentions-legales)
+- [Privacy policy](https://scoreconso.fr/confidentialite)
+
+## API Evangelist rating
+
+**Kin Score 30.2** — thin · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 47.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.0 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scoreconso-fr/](https://apis.io/providers/scoreconso-fr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ScoreConso: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scoreconso-fr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
